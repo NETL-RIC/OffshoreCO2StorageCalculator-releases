@@ -7,4 +7,4 @@ This is the repository for pushing releases of the Offshore CO2 Storage Calculat
 
 This tool can be referenced with the following citation:
 
-Romeo, L., Wingo, P., Barkhurst, A., and Rose, K. 2020. Offshore CO2 Storage Calculator.
+> **Lucy Romeo, Aaron Barkhurst, Patrick Wingo, Randal Thomas, and Kelly Rose, Offshore CO2 Storage Calculator.**
